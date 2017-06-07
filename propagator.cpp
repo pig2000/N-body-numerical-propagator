@@ -56,7 +56,6 @@ void update_bodies()
 	{
 		body_file >> id;
 		body_list.push_back(id);
-		//cout << a << "\n";
 	}
 	body_file.close();
 	list_size = body_list.size()-1;
