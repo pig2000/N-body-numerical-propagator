@@ -6,4 +6,4 @@ Users should have the boost C++ library (http://www.boost.org/) and the NAIF-CSP
 
 Users should also put ephemeride files under the CSPICE directory.
 
-Compile the code using the command "g++ propagator.cpp -Icspice/include cspice/lib/cspice.a".
+Compile the code using the command "g++ propagator.cpp -Icspice/include cspice/lib/cspice.a" in Linux environment.
